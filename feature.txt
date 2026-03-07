@@ -1,3 +1,2 @@
 This is the feature branch
-git add feature.txt
-git commit -m "Add feature.txt to feature branch"
+Another line in feature branch
